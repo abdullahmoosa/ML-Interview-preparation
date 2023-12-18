@@ -1,3 +1,8 @@
+# Courses I found interesting : 
+- [https://developers.google.com/machine-learning/crash-course/ml-intro](url)
+- 
+
+
 # ML-Interview-preparation
 These are the tasks I completed and I revised to prepare for ML interview. I researched about the ML questions that are normally asked in an interview in Bangladesh.
 
