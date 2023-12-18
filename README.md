@@ -1,6 +1,6 @@
 # Courses I found interesting : 
-- [https://developers.google.com/machine-learning/crash-course/ml-intro](url)
-- 
+- Crash Course : [https://developers.google.com/machine-learning/crash-course/ml-intro](url) (1-1.5 weeks)
+- Fundamental Courses : [https://developers.google.com/machine-learning/foundational-courses](url) (4 weeks-6 weeks)
 
 
 # ML-Interview-preparation
