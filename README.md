@@ -21,6 +21,15 @@ Basic Software and problem solving skills :
 
 After the above then you can have good knowledge on the below : 
 
+Supervised VS Unsupervised
+
+Clustering kivabe kaaj kore. Example.
+
+Why does ML algorithms work better on numerical data than Neural networks? : 
+
+-> Tabular data te oneksomoy onekgula features thake jegula nijeder moddhe correlated thake abr onen feature gula temon important o hoe nah. But NN e eirokom data nie train korate hole result bhalo ashe nah because of less important features. However, traditional ML algorithms gula strict decision boundary ber korte pare. Ejonne easily less important features gula ke rule out kore dite pare.
+
+
 Bias : Jokhon model underfit obosthay thake. Mane jokhon training error and validation error same pattern follow kore.
 
 Variance : Jokhon model overfit obosthay thake. Mane jokhon training error and validation error different pattern follow kore.
