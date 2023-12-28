@@ -2,6 +2,7 @@
 - Crash Course : [https://developers.google.com/machine-learning/crash-course/ml-intro](url) (1-1.5 weeks)
 - Fundamental Courses : [https://developers.google.com/machine-learning/foundational-courses](url) (4 weeks-6 weeks)
 
+For writing good python code : [https://peps.python.org/pep-0008/](url)
 
 # ML-Interview-preparation
 These are the tasks I completed and I revised to prepare for ML interview. I researched about the ML questions that are normally asked in an interview in Bangladesh.
