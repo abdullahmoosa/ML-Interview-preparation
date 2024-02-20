@@ -6,7 +6,6 @@ For writing good python code : [https://peps.python.org/pep-0008/](url)
 Python Good practice : [https://dagster.io/blog/python-project-best-practices](url)
 
 
-
 # ML-Interview-preparation
 These are the tasks I completed and I revised to prepare for ML interview. I researched about the ML questions that are normally asked in an interview in Bangladesh.
 
@@ -19,6 +18,8 @@ Basic Software and problem solving skills :
 6. python list comprehension(Necessary), decorators. (Is not required for most of the cases)
 7. Linked-List.(Usually necessary)
 8. pointers and how they work ( Not always required).
+
+Python-private, public. Inheritance(multilevel, hierarchical).
 
 After the above then you can have good knowledge on the below : 
 
@@ -154,10 +155,4 @@ Clusters and how to choose the right number of ones : https://towardsdatascience
 Concating models in ML : https://control.com/technical-articles/combining-two-deep-learning-models/
 
 Git workflow explained with example : https://chat.openai.com/share/d8f2d545-ac8f-4e0e-9589-129729d0b282
-
-
-
-
-
-
 
