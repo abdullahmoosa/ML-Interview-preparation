@@ -3,6 +3,7 @@
 - Fundamental Courses : [https://developers.google.com/machine-learning/foundational-courses](url) (4 weeks-6 weeks)
 
 For writing good python code : [https://peps.python.org/pep-0008/](url)
+Python Good practice : [https://dagster.io/blog/python-project-best-practices](url)
 
 
 
@@ -153,6 +154,8 @@ Clusters and how to choose the right number of ones : https://towardsdatascience
 Concating models in ML : https://control.com/technical-articles/combining-two-deep-learning-models/
 
 Git workflow explained with example : https://chat.openai.com/share/d8f2d545-ac8f-4e0e-9589-129729d0b282
+
+
 
 
 
