@@ -156,3 +156,8 @@ Concating models in ML : https://control.com/technical-articles/combining-two-de
 
 Git workflow explained with example : https://chat.openai.com/share/d8f2d545-ac8f-4e0e-9589-129729d0b282
 
+When should you use Label encoding and when should you use one hot encoding?
+-> usually dataset jodi large na hoe, categorical columns jodi beshi na thake, category number o beshi na thake and categorical value gular moddhe ordinal relationship exist na kore then one hot encoding use kora better.
+-> Jodi dataset large hoe othoba categorical columns onek/categorical value onek thake taile one hot encoding use korle time complexity issue hote pare. And also issue like sparsity may arise.
+-> [https://datascience.stackexchange.com/questions/78092/on-gradient-boosting-and-types-of-encodings](url)
+
