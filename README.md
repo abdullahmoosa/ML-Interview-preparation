@@ -25,22 +25,21 @@ Python-private, public. Inheritance(multilevel, hierarchical).
 
 **Supervised VS Unsupervised**
 
-**Clustering kivabe kaaj kore**.
-
+Clustering kivabe kaaj kore.
 Example.
 
-Why does ML algorithms work better on numerical data than Neural networks? : 
+**Why does ML algorithms work better on numerical data than Neural networks? : **
 
 -> Tabular data te oneksomoy onekgula features thake jegula nijeder moddhe correlated thake abr onen feature gula temon important o hoe nah. But NN e eirokom data nie train korate hole result bhalo ashe nah because of less important features. However, traditional ML algorithms gula strict decision boundary ber korte pare. Ejonne easily less important features gula ke rule out kore dite pare.
 
 
-Bias : Jokhon model underfit obosthay thake. Mane jokhon training error and validation error same pattern follow kore.
+**Bias :** Jokhon model underfit obosthay thake. Mane jokhon training error and validation error same pattern follow kore.
 
-Variance : Jokhon model overfit obosthay thake. Mane jokhon training error and validation error different pattern follow kore.
+**Variance :** Jokhon model overfit obosthay thake. Mane jokhon training error and validation error different pattern follow kore.
 
-Regularization : Regularization use kora hoe jate model overfit or underfit na kore.
+**Regularization :** Regularization use kora hoe jate model overfit or underfit na kore.
 
-Scaling : 
+**Scaling :** 
 1.	scaling kora hole training time reduce hoe karon gradient quickly converge kore.
 2.	Scaling kora hole ekta specific feature er proti unnecessary importance reduce hoe. Mane emon suppose ekta dataset e normally feature gular range (0-1) er moddhe. Ekhon jodi emon ekta feature thake jetar range -200,200. Tahole shavabik model etake beshi importance deoar chance thakbe although eta important nao hote pare. Scaling kora hole emon scenario reduce hoe.
 3.	Standardization performs well when the dataset may contain outliers.
