@@ -9,7 +9,7 @@ Python Good practice : [https://dagster.io/blog/python-project-best-practices](u
 # ML-Interview-preparation
 These are the tasks I completed and I revised to prepare for ML interview. I researched about the ML questions that are normally asked in an interview in Bangladesh.
 
-**Basic Software and problem solving skills : **
+**Basic Software and problem solving skills **:
 1. OOP(Must)
 2. Problem Solving (Basics).
 3. Recursion.
