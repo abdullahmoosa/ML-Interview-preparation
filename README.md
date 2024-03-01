@@ -25,8 +25,7 @@ Python-private, public. Inheritance(multilevel, hierarchical).
 
 **Supervised VS Unsupervised**
 
-**Clustering kivabe kaaj kore**.
-Example.
+**Clustering kivabe kaaj kore**.   Example.
 
 Why does ML algorithms work better on numerical data than Neural networks? : 
 
