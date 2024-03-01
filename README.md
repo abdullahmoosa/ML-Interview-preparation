@@ -9,7 +9,7 @@ Python Good practice : [https://dagster.io/blog/python-project-best-practices](u
 # ML-Interview-preparation
 These are the tasks I completed and I revised to prepare for ML interview. I researched about the ML questions that are normally asked in an interview in Bangladesh.
 
-Basic Software and problem solving skills : 
+**Basic Software and problem solving skills : **
 1. OOP(Must)
 2. Problem Solving (Basics).
 3. Recursion.
@@ -21,11 +21,12 @@ Basic Software and problem solving skills :
 
 Python-private, public. Inheritance(multilevel, hierarchical).
 
-After the above then you can have good knowledge on the below : 
+**After the above then you can have good knowledge on the below :** 
 
-Supervised VS Unsupervised
+**Supervised VS Unsupervised**
 
-Clustering kivabe kaaj kore. Example.
+**Clustering kivabe kaaj kore. **
+Example.
 
 Why does ML algorithms work better on numerical data than Neural networks? : 
 
